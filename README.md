@@ -11,7 +11,7 @@ Compatibility for 1.33
 *********
 Contact the following people, to hear if they're interested in filling out the remainders:
 
-Cwrwi: English, French, Spanish, Portuguese, Dutch, Scottish, Norwegian, Danish, Welsh
+Cwrwi: English, French, Spanish, Portuguese, Dutch, Scottish, Norwegian, Danish, Welsh, German
 
 Emc18: Spanish, Catalan
 
@@ -23,7 +23,7 @@ GULAG: Norwegian
 
 Krille: Swedish
 
-Comrade Dongo: Swedish
+Comrade Dongo: Swedish, German
 
 Stimmung: Latin
 
