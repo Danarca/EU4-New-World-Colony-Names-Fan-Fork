@@ -4,10 +4,28 @@ A Fan Fork of the EU4 mod New World Colony Names
 A project aiming at reviving the New World Colony Names mod for Europa Universalis 4, a so-called Fan Fork.
 
 TO-DO:
-
+---
 New province names for: English, French, Castilian, Portuguese, Dutch, German, Italian, Catalan, Scottish, Norwegian, Danish, Swedish, Latin, Welsh, Turkish, Japanese, Hungarian, Polish, Chinese, Greek
-
+********
 Compatibility for 1.33
+*********
+Contact the following people, to hear if they're interested in filling out the remainders:
+
+Cwrwi: English, French, Spanish, Portuguese, Dutch, Scottish, Norwegian, Danish, Welsh
+Emc18: Spanish, Catalan
+MattBrant: Portuguese
+Annozoker: Italian
+GULAG: Norwegian
+Krille: Swedish
+Comrade Dongo: Swedish
+Stimmung: Latin
+Phantom Thief: Turkish
+nickronomicon: Japanese
+Scratchmen: Hungarian
+Voltaire, Imaginaryfriendo, Falang: Polish
+Van♂年夕阳红: Chinese
+Soundwave339: Greek
+
 
 ORIGINAL WORKSHOP TEXT
 ----------------------
