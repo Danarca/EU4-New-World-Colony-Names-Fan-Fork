@@ -12,18 +12,31 @@ Compatibility for 1.33
 Contact the following people, to hear if they're interested in filling out the remainders:
 
 Cwrwi: English, French, Spanish, Portuguese, Dutch, Scottish, Norwegian, Danish, Welsh
+
 Emc18: Spanish, Catalan
+
 MattBrant: Portuguese
+
 Annozoker: Italian
+
 GULAG: Norwegian
+
 Krille: Swedish
+
 Comrade Dongo: Swedish
+
 Stimmung: Latin
+
 Phantom Thief: Turkish
+
 nickronomicon: Japanese
+
 Scratchmen: Hungarian
+
 Voltaire, Imaginaryfriendo, Falang: Polish
+
 Van♂年夕阳红: Chinese
+
 Soundwave339: Greek
 
 
