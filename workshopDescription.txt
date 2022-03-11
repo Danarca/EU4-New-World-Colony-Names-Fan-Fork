@@ -1,0 +1,32 @@
+A Fan Fork of the New World Colony Names mod, originally made by Cwrwi.
+
+The original haven't been updated since 2019 however, cannot be run, and can thus be considered abandoned.
+This project aims to restore the mod to its former glory.
+
+Fully playable on 1.33.2, but does [b]not[/b] contain province names for the provinces added in Leviathan, for which I need help.
+
+Want to help? Head over to https://github.com/Danarca/EU4-New-World-Colony-Names-Fan-Fork or start a thread below!
+
+[hr][/hr]
+ORIGINAL WORKSHOP TEXT
+[hr][/hr]
+[EN/FR/ES/DE/PT] English: This mod adds a dynamic name for every single province in the New World for English, Scottish, French, Castilian, Portuguese, Catalan, Dutch, German, Italian, Flemish, Latin, Turkish, Welsh, Japanese, Norwegian, Danish, Swedish, Polish, Hungarian, Greek and Chinese Cultures. No longer will AI Spanish Canada refuse to name its provinces on the grounds that Spain wasn’t there historically!
+
+Where known, historical names have been used and where not- either a country never colonised it (England in Brazil) or claimed it but never actually settled there (France in most of Louisiana)- appropriate names have been used instead. That means Spanish and Portuguese names are heavy on the saints, English, Scottish and Dutch much less so.
+
+Feedback is welcome! If you think I’m wrong about something or have missed something out, tell me (where possible please link to a source) and I’ll put it right.
+
+[b]Compatibility[/b]
+1.29 Compatible.
+This mod is not Ironman compatible because adding dynamic province names mucks up the checksum. Thanks, Paradox!
+Compatible with almost all other mods. This comes with the caveat that if a mod adds loads of provinces in the Americas, the effectiveness of this mod is going to be reduced, but it will still work.
+This mod is now ET Compatible!
+The only mods it’s not compatible with are other mods that add dynamic province names.
+Not currently compatible with random new world.
+Compatible with every language of vanilla eu4 and every language mod that uses the Latin alphabet.
+
+1 rate up = 1 smile
+1 favorite = 1 tell Paradox to stop dynamic province names changing the checksum
+
+Thanks to Comrade Dongo for doing most the German and for help with Swedish, Annozoker for the Italian, Emc18 for the Catalan names and editing the Castilian, MattBrant for editing the Portuguese, GULAG for helping with Norwegian, Krille for helping with the Swedish, pluvionix for the Japanese, Phantom Thief for the Turkish, Stimmung for the Latin, Voltaire, Imaginaryfriendo and Falang for Polish, Scratchmen for Hungarian, Soundwave339 for Greek and Van♂年夕阳红 for Chinese.
+[hr][/hr]
