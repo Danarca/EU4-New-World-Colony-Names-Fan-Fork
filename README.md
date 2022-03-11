@@ -6,8 +6,6 @@ A project aiming at reviving the New World Colony Names mod for Europa Universal
 TO-DO:
 ---
 New province names for: English, French, Castilian, Portuguese, Dutch, German, Italian, Catalan, Scottish, Norwegian, Danish, Swedish, Latin, Welsh, Turkish, Japanese, Hungarian, Polish, Chinese, Greek
-********
-Compatibility for 1.33
 *********
 Contact the following people, to hear if they're interested in filling out the remainders:
 
