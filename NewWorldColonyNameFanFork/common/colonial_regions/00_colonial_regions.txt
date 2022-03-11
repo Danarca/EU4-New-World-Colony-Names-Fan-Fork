@@ -180,7 +180,7 @@ colonial_alaska = {
 	}
 	names = {
 		trigger = {
-			culture_group = gaelic
+			primary_culture = welsh
 		}
 		name = "COLONIAL_ALASKA_Gwlad_yr_Eira"
 	}
@@ -438,7 +438,7 @@ colonial_canada = {
 	}
 	names = {
 		trigger = {
-			culture_group = gaelic
+			primary_culture = welsh
 		}
 		name = "COLONIAL_CANADA_Afalon_Cymraeg"
 	}
@@ -875,7 +875,7 @@ colonial_eastern_america = {
 	}
 	names = {
 		trigger = {
-			culture_group = gaelic
+			primary_culture = welsh
 		}
 		name = "COLONIAL_EASTERN_AMERICA_Wlad_Madog"
 	}
@@ -1168,7 +1168,7 @@ colonial_louisiana = {
 	}
 	names = {
 		trigger = {
-			culture_group = gaelic
+			primary_culture = welsh
 		}
 		name = "COLONIAL_LOUISIANA_Llewelynia"
 	}
@@ -1413,7 +1413,7 @@ colonial_california = {
 	# Specific
 	names = {
 		trigger = {
-			culture_group = gaelic
+			primary_culture = welsh
 		}
 		name = "COLONIAL_CALIFORNIA_Nova_Cambria"
 	}
@@ -1901,7 +1901,7 @@ colonial_mexico = {
 	}
 	names = {
 		trigger = {
-			culture_group = gaelic
+			primary_culture = welsh
 		}
 		name = "COLONIAL_MEXICO_Lloegr_Newydd"
 	}
@@ -2042,7 +2042,7 @@ colonial_the_carribean = {
 	# Specific
 	names = {
 		trigger = {
-			culture_group = gaelic
+			primary_culture = welsh
 		}
 		name = "COLONIAL_THE_CARRIBEAN_Ynysoedd_Cymraeg"
 	}
@@ -2469,7 +2469,7 @@ colonial_colombia = {
 	}
 	names = {
 		trigger = {
-			culture_group = gaelic
+			primary_culture = welsh
 		}
 		name = "COLONIAL_COLOMBIA_Glyndwr"
 	}
@@ -2674,7 +2674,7 @@ colonial_peru = {
 	}
 	names = {
 		trigger = {
-			culture_group = gaelic
+			primary_culture = welsh
 		}
 		name = "COLONIAL_PERU_Clwyd"
 	}
@@ -2824,7 +2824,7 @@ colonial_la_plata = {
 	# Specific
 	names = {
 		trigger = {
-			culture_group = gaelic
+			primary_culture = welsh
 		}
 		name = "COLONIAL_LA_PLATA_Wladfa"
 	}
@@ -3229,7 +3229,7 @@ colonial_brazil = {
 	}
 	names = {
 		trigger = {
-			culture_group = gaelic
+			primary_culture = welsh
 		}
 		name = "COLONIAL_BRAZIL_yr_Amason"
 	}
@@ -3380,6 +3380,16 @@ colonial_australia = {
 			}
 		}
 		name = "COLONIAL_AUSTRALIA_New_Holland"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = KOR
+				primary_culture = korean
+				primary_culture = korean_new
+			}
+		}
+		name = "COLONIAL_AUSTRALIA_Hoju"
 	}
 	# Generic
 	names = {
