@@ -1,4 +1,13 @@
 ﻿l_english:
+ NewWorldDebug.AnnexTheWorld.t:0 "Annex the World?"
+ NewWorldDebug.AnnexTheWorld.d:0 "Would you like to annex a part of the world, changing its culture and religion to yours in the process?\n§RWarning: Might freeze your computer for a small period!§!"
+ NewWorldDebug.AnnexTheWorld.europe:0 "Europe"
+ NewWorldDebug.AnnexTheWorld.africa:0 "Africa"
+ NewWorldDebug.AnnexTheWorld.asia:0 "Asia"
+ NewWorldDebug.AnnexTheWorld.na:0 "North America"
+ NewWorldDebug.AnnexTheWorld.sa:0 "South America"
+ NewWorldDebug.AnnexTheWorld.oceania:0 "Oceania"
+ NewWorldDebug.AnnexTheWorld.n:0 "No, I don't want the lag"
  COLONIAL_MEXICO_Le_Mexique:0 "Le Mexique"
  COLONIAL_MEXICO_Le_Mexique_ADJ:0 "Mexicain"
  COLONIAL_ALASKA_Alaszka:0 "Alaszka"

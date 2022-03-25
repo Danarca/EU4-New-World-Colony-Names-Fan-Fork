@@ -1556,7 +1556,8 @@ colonial_california = {
 	names = {
 		trigger = {
 			owns = 2481
-		}		# Klamath
+		}
+		# Klamath
 		name = "COLONIAL_CALIFORNIA_Oregon"
 	}
 	names = {
@@ -1944,7 +1945,8 @@ colonial_mexico = {
 	names = {
 		trigger = {
 			owns = 841
-		}		# Guatemala
+		}
+		# Guatemala
 		name = "COLONIAL_MEXICO_Guatemala"
 	}
 	names = {

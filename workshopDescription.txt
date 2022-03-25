@@ -1,10 +1,13 @@
-A Fan Fork of the New World Colony Names mod, originally made by Cwrwi.
+A Fan Fork of the New World Colony Names mod, originally made by Cwrwi, located here: https://steamcommunity.com/sharedfiles/filedetails/?id=1375379791
 
-The original haven't been updated since 2019 however, cannot be run, and can thus be considered abandoned.
+The original haven't been updated since 2019 however, cannot be run on the latest versions of the game, and can thus be considered abandoned.
 This project aims to restore the mod to its former glory.
 
-Fully playable on 1.33.2, but does [b]not[/b] contain province names for the provinces added in Leviathan, for which I need help.
-
+[b]Fully playable on 1.33.2, but does not contain province names for the provinces added in Leviathan, for which I need help.[/b]
+[hr][/hr]
+[b]Help so far:[/b]
+Friedemann: German Australia
+[hr][/hr]
 Want to help? Head over to https://github.com/Danarca/EU4-New-World-Colony-Names-Fan-Fork or start a thread below!
 
 [hr][/hr]
