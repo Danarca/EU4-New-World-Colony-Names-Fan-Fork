@@ -1,0 +1,16 @@
+25. March 2022
+-German Australia added, courtesy of Friedemann
+-Encoding errors fixed for a number of countries
+-Welsh re-uploaded to Github, not sure how it disappeared from there!
+
+18. April 2022
+-Italian America names, courtesy of Annozoker
+-Italian Oceania, again by Annozoker
+-Italian American East coast, Canada & Australian colonial subject rename by Annozoker
+
+5. May 2022
+-Update to Turkish province names and added the missing ones in America, courtesy of Darth Revan
+
+7. May 2022
+-Update to English and French Canadian provinces by BurndenAce
+-Irish Gaelic and Scots Gaelic New World (Provinces and Colonial Nations) by gorillaswithAKs

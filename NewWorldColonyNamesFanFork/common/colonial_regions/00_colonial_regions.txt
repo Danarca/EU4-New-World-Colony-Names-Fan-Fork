@@ -196,6 +196,18 @@ colonial_alaska = {
 		}
 		name = "COLONIAL_ALASKA_Rikuchu"
 	}
+	names = {
+		trigger = {
+			primary_culture = irish
+		}
+		name = "COLONIAL_CASCADIA_Irish"
+	}
+	names = {
+		trigger = {
+			primary_culture = highland_scottish
+		}
+		name = "COLONIAL_CASCADIA_Gaelic"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_CALIFORNIA_Cascadia"
@@ -537,6 +549,18 @@ colonial_canada = {
 			culture_group = scandinavian
 		}
 		name = "COLONIAL_CANADA_Vinland"
+	}
+	names = {
+		trigger = {
+			primary_culture = irish
+		}
+		name = "COLONIAL_CANADA_Irish"
+	}
+	names = {
+		trigger = {
+			primary_culture = highland_scottish
+		}
+		name = "COLONIAL_CANADA_Gaelic"
 	}
 	# Generic
 	names = {
@@ -890,6 +914,18 @@ colonial_eastern_america = {
 			primary_culture = japanese
 		}
 		name = "COLONIAL_EASTERN_AMERICA_Shin_Tokaido"
+	}
+	names = {
+		trigger = {
+			primary_culture = irish
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Irish"
+	}
+	names = {
+		trigger = {
+			primary_culture = highland_scottish
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Gaelic"
 	}
 	# Generic
 	names = {
@@ -1249,6 +1285,18 @@ colonial_louisiana = {
 		}
 		name = "PROV915"
 	}
+	names = {
+		trigger = {
+			primary_culture = irish
+		}
+		name = "COLONIAL_LOUISIANA_Irish"
+	}
+	names = {
+		trigger = {
+			primary_culture = highland_scottish
+		}
+		name = "COLONIAL_LOUISIANA_Gaelic"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_LOUISIANA_Root_Culture_GetName_Louisiana"
@@ -1548,6 +1596,18 @@ colonial_california = {
 			primary_culture = japanese
 		}
 		name = "COLONIAL_CALIFORNIA_Shin_Nippon"
+	}
+	names = {
+		trigger = {
+			primary_culture = irish
+		}
+		name = "COLONIAL_CALIFORNIA_Irish"
+	}
+	names = {
+		trigger = {
+			primary_culture = highland_scottish
+		}
+		name = "COLONIAL_CALIFORNIA_Gaelic"
 	}
 	# Generic
 	names = {
@@ -1924,6 +1984,38 @@ colonial_mexico = {
 		}
 		name = "COLONIAL_MEXICO_Yoyama"
 	}
+	names = {
+		trigger = {
+			primary_culture = irish
+			num_of_owned_provinces_with = {
+				value = 3
+				region = rio_grande_region
+			}
+		}
+		name = "COLONIAL_TEXAS_Irish"
+	}
+	names = {
+		trigger = {
+			primary_culture = highland_scottish
+			num_of_owned_provinces_with = {
+				value = 3
+				region = rio_grande_region
+			}
+		}
+		name = "COLONIAL_TEXAS_Gaelic"
+	}
+	names = {
+		trigger = {
+			primary_culture = irish
+		}
+		name = "COLONIAL_MEXICO_Irish"
+	}
+	names = {
+		trigger = {
+			primary_culture = highland_scottish
+		}
+		name = "COLONIAL_MEXICO_Gaelic"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_MEXICO_Root_Culture_GetName_Mexico"
@@ -2226,6 +2318,18 @@ colonial_the_carribean = {
 		}
 		name = "COLONIAL_THE_CARRIBEAN_Okinawa"
 	}
+	names = {
+		trigger = {
+			primary_culture = irish
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Irish"
+	}
+	names = {
+		trigger = {
+			primary_culture = highland_scottish
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Gaelic"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_THE_CARRIBEAN_Root_Culture_GetName_West_Indies"
@@ -2487,6 +2591,18 @@ colonial_colombia = {
 		}
 		name = "COLONIAL_COLOMBIA_Shin_Shikoku"
 	}
+	names = {
+		trigger = {
+			primary_culture = irish
+		}
+		name = "COLONIAL_COLOMBIA_Irish"
+	}
+	names = {
+		trigger = {
+			primary_culture = highland_scottish
+		}
+		name = "COLONIAL_COLOMBIA_Gaelic"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_COLOMBIA_Root_Culture_GetName_Colombia"
@@ -2703,6 +2819,18 @@ colonial_peru = {
 			primary_culture = greek
 		}
 		name = "COLONIAL_PERU_Chrisogi"
+	}
+	names = {
+		trigger = {
+			primary_culture = irish
+		}
+		name = "COLONIAL_PERU_Irish"
+	}
+	names = {
+		trigger = {
+			primary_culture = highland_scottish
+		}
+		name = "COLONIAL_PERU_Gaelic"
 	}
 	# Generic
 	names = {
@@ -2957,6 +3085,18 @@ colonial_la_plata = {
 			tag = POR
 		}
 		name = "COLONIAL_LA_PLATA_Transplatina"
+	}
+	names = {
+		trigger = {
+			primary_culture = irish
+		}
+		name = "COLONIAL_LA_PLATA_Irish"
+	}
+	names = {
+		trigger = {
+			primary_culture = highland_scottish
+		}
+		name = "COLONIAL_LA_PLATA_Gaelic"
 	}
 	# Generic
 	names = {
@@ -3258,6 +3398,18 @@ colonial_brazil = {
 		}
 		name = "COLONIAL_BRAZIL_new_granada"
 	}
+	names = {
+		trigger = {
+			primary_culture = irish
+		}
+		name = "COLONIAL_BRAZIL_Irish"
+	}
+	names = {
+		trigger = {
+			primary_culture = highland_scottish
+		}
+		name = "COLONIAL_BRAZIL_Gaelic"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_BRAZIL_Root_Culture_GetName_Brazil"
@@ -3392,6 +3544,12 @@ colonial_australia = {
 			}
 		}
 		name = "COLONIAL_AUSTRALIA_Hoju"
+	}
+	names = {
+		trigger = {
+			culture_group = latin
+		}
+		name = "COLONIAL_AUSTRALIA_Terre_Australi"
 	}
 	# Generic
 	names = {

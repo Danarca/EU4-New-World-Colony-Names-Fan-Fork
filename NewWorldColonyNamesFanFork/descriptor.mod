@@ -4,5 +4,5 @@ tags={
 	"Map"
 }
 name="New World Colony Names Fan Fork"
-supported_version="1.33.2"
+supported_version="1.33.3"
 remote_file_id="2776989437"
