@@ -9,6 +9,8 @@ A project aiming at reviving the New World Colony Names mod for Europa Universal
 
 [Steam Page](https://steamcommunity.com/sharedfiles/filedetails/?id=1375379791)
 
+[Got a suggestion?](https://github.com/Danarca/EU4-New-World-Colony-Names-Fan-Fork/issues)
+
 TO-DO:
 ---
 New province names for: English, French, Castilian, Portuguese, Dutch, German, Catalan, Scottish, Norwegian, Danish, Swedish, Latin, Welsh, Japanese, Hungarian, Polish, Chinese, Greek
