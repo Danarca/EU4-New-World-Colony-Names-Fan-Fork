@@ -3,9 +3,17 @@ A Fan Fork of the EU4 mod New World Colony Names
 
 A project aiming at reviving the New World Colony Names mod for Europa Universalis 4, a so-called Fan Fork.
 
+**Links**
+
+[Changelog](NewWorldColonyNamesFanFork/changelog.txt)
+
+[Steam Page](https://steamcommunity.com/sharedfiles/filedetails/?id=1375379791)
+
+[Got a suggestion?](https://github.com/Danarca/EU4-New-World-Colony-Names-Fan-Fork/issues)
+
 TO-DO:
 ---
-New province names for: English, French, Castilian, Portuguese, Dutch, German, Italian, Catalan, Scottish, Norwegian, Danish, Swedish, Latin, Welsh, Turkish, Japanese, Hungarian, Polish, Chinese, Greek
+New province names for: English, French, Castilian, Portuguese, Dutch, German, Catalan, Scottish, Norwegian, Danish, Swedish, Latin, Welsh, Japanese, Hungarian, Polish, Chinese, Greek
 *********
 Contact the following people, to hear if they're interested in filling out the remainders:
 
@@ -15,8 +23,6 @@ Emc18: Spanish, Catalan
 
 MattBrant: Portuguese
 
-Annozoker: Italian
-
 GULAG: Norwegian
 
 Krille: Swedish
@@ -24,8 +30,6 @@ Krille: Swedish
 Comrade Dongo: Swedish, German
 
 Stimmung: Latin
-
-Phantom Thief: Turkish
 
 nickronomicon: Japanese
 
@@ -37,6 +41,18 @@ Van♂年夕阳红: Chinese
 
 Soundwave339: Greek
 
+---
+**WORK SO FAR:**
+
+German Australia: Friedemann
+
+Italian America & Oceania: Annozoker (From original team)
+
+Turkish Leviathan: Darth Revan (Happens to be Phantom Thief from the original team)
+
+English and French Canada overhaul: BurndenAce
+
+Scots Gaelic and Irish Gaelic: gorillaswithAKs
 
 ORIGINAL WORKSHOP TEXT
 ----------------------
