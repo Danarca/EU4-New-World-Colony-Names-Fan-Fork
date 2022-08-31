@@ -92,24 +92,6 @@ colonial_alaska = {
 	}
 	names = {
 		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_ALASKA_Zuzhou"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_ALASKA_Beiting"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_ALASKA_Aixve"
-	}
-	names = {
-		trigger = {
 			OR = {
 				primary_culture = english
 				culture_group = latin
@@ -207,6 +189,53 @@ colonial_alaska = {
 			primary_culture = highland_scottish
 		}
 		name = "COLONIAL_CASCADIA_Gaelic"
+	}
+	
+	names = {
+		trigger = {
+			OR = {
+				tag = KOR
+				primary_culture = korean
+				primary_culture = korean_new
+			}
+		}
+		name = "COLONIAL_ALASKA_Korean"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = vietnamese
+				primary_culture = vietnamese_new
+			}
+		}
+		name = "COLONIAL_ALASKA_Vietnam"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_ALASKA_Beiting"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_ALASKA_Aixve"
+	}
+	names = {
+		trigger = {
+			primary_culture = polish
+		}
+		name = "COLONIAL_ALASKA_Polish"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = turko_semitic
+				culture_group = maghrebi
+			}
+		}
+		name = "COLONIAL_ALASKA_Arabic"
 	}
 	# Generic
 	names = {
@@ -426,24 +455,6 @@ colonial_canada = {
 	}
 	names = {
 		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_CANADA_Xuanzhou"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_CANADA_Beiwan"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_CANADA_Binggang"
-	}
-	names = {
-		trigger = {
 			primary_culture = catalan
 		}
 		name = "COLONIAL_CANADA_Llaurador"
@@ -561,6 +572,58 @@ colonial_canada = {
 			primary_culture = highland_scottish
 		}
 		name = "COLONIAL_CANADA_Gaelic"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = KOR
+				primary_culture = korean
+				primary_culture = korean_new
+			}
+		}
+		name = "COLONIAL_CANADA_Korean"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = vietnamese
+				primary_culture = vietnamese_new
+			}
+		}
+		name = "COLONIAL_CANADA_Vietnam"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_CANADA_Beiwan"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_CANADA_Binggang"
+	}
+	names = {
+		trigger = {
+			culture_group = east_slavic
+		}
+		name = "COLONIAL_CANADA_Russian"
+	}
+	names = {
+		trigger = {
+			primary_culture = polish
+		}
+		name = "COLONIAL_CANADA_Polish"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = turko_semitic
+				culture_group = maghrebi
+			}
+		}
+		name = "COLONIAL_CANADA_Arabic"
 	}
 	# Generic
 	names = {
@@ -851,24 +914,6 @@ colonial_eastern_america = {
 	}
 	names = {
 		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_EASTERN_AMERICA_Yuanzhou"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_EASTERN_AMERICA_Jidong"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_EASTERN_AMERICA_Woyuan"
-	}
-	names = {
-		trigger = {
 			culture_group = latin
 		}
 		name = "COLONIAL_EASTERN_AMERICA_Nuova_Roma"
@@ -926,6 +971,58 @@ colonial_eastern_america = {
 			primary_culture = highland_scottish
 		}
 		name = "COLONIAL_EASTERN_AMERICA_Gaelic"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = KOR
+				primary_culture = korean
+				primary_culture = korean_new
+			}
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Korean"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = vietnamese
+				primary_culture = vietnamese_new
+			}
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Vietnam"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Jidong"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Woyuan"
+	}
+	names = {
+		trigger = {
+			culture_group = east_slavic
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Russian"
+	}
+	names = {
+		trigger = {
+			primary_culture = polish
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Polish"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = turko_semitic
+				culture_group = maghrebi
+			}
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Arabic"
 	}
 	# Generic
 	names = {
@@ -1228,30 +1325,6 @@ colonial_louisiana = {
 	}
 	names = {
 		trigger = {
-			OR = {
-				culture_group = east_asian
-			}
-		}
-		name = "COLONIAL_LOUISIANA_Shengzhou"
-	}
-	names = {
-		trigger = {
-			OR = {
-				culture_group = east_asian
-			}
-		}
-		name = "COLONIAL_LOUISIANA_Zhongtu"
-	}
-	names = {
-		trigger = {
-			OR = {
-				culture_group = east_asian
-			}
-		}
-		name = "COLONIAL_LOUISIANA_Houyin"
-	}
-	names = {
-		trigger = {
 			primary_culture = turkish
 		}
 		name = "COLONIAL_LOUISIANA_Hunkariyye"
@@ -1296,6 +1369,62 @@ colonial_louisiana = {
 			primary_culture = highland_scottish
 		}
 		name = "COLONIAL_LOUISIANA_Gaelic"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = KOR
+				primary_culture = korean
+				primary_culture = korean_new
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Korean"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = vietnamese
+				primary_culture = vietnamese_new
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Vietnam"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = east_asian
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Zhongtu"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = east_asian
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Houyin"
+	}
+	names = {
+		trigger = {
+			culture_group = east_slavic
+		}
+		name = "COLONIAL_LOUISIANA_Russian"
+	}
+	names = {
+		trigger = {
+			primary_culture = polish
+		}
+		name = "COLONIAL_LOUISIANA_Polish"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = turko_semitic
+				culture_group = maghrebi
+			}
+		}
+		name = "COLONIAL_LOUISIANA_Arabic"
 	}
 	# Generic
 	names = {
@@ -1548,24 +1677,6 @@ colonial_california = {
 	}
 	names = {
 		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_CALIFORNIA_Changzhou"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_CALIFORNIA_Dadong_Pendi"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_CALIFORNIA_Niuyuan"
-	}
-	names = {
-		trigger = {
 			OR = {
 				primary_culture = norwegian
 				primary_culture = danish
@@ -1608,6 +1719,58 @@ colonial_california = {
 			primary_culture = highland_scottish
 		}
 		name = "COLONIAL_CALIFORNIA_Gaelic"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = KOR
+				primary_culture = korean
+				primary_culture = korean_new
+			}
+		}
+		name = "COLONIAL_CALIFORNIA_Korean"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = vietnamese
+				primary_culture = vietnamese_new
+			}
+		}
+		name = "COLONIAL_CALIFORNIA_Vietnam"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_CALIFORNIA_Dadong_Pendi"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_CALIFORNIA_Niuyuan"
+	}
+	names = {
+		trigger = {
+			culture_group = east_slavic
+		}
+		name = "COLONIAL_CALIFORNIA_Russian"
+	}
+	names = {
+		trigger = {
+			primary_culture = polish
+		}
+		name = "COLONIAL_CALIFORNIA_Polish"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = turko_semitic
+				culture_group = maghrebi
+			}
+		}
+		name = "COLONIAL_CALIFORNIA_Arabic"
 	}
 	# Generic
 	names = {
@@ -1888,24 +2051,6 @@ colonial_mexico = {
 	}
 	names = {
 		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_MEXICO_Fenglinzhou"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_MEXICO_Yuweidi"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_MEXICO_Jinlin"
-	}
-	names = {
-		trigger = {
 			primary_culture = portugese
 		}
 		name = "COLONIAL_MEXICO_Nova_Portugal"
@@ -2015,6 +2160,58 @@ colonial_mexico = {
 			primary_culture = highland_scottish
 		}
 		name = "COLONIAL_MEXICO_Gaelic"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = KOR
+				primary_culture = korean
+				primary_culture = korean_new
+			}
+		}
+		name = "COLONIAL_MEXICO_Korean"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = vietnamese
+				primary_culture = vietnamese_new
+			}
+		}
+		name = "COLONIAL_MEXICO_Vietnam"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_MEXICO_Yuweidi"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_MEXICO_Jinlin"
+	}
+	names = {
+		trigger = {
+			culture_group = east_slavic
+		}
+		name = "COLONIAL_MEXICO_Russian"
+	}
+	names = {
+		trigger = {
+			primary_culture = polish
+		}
+		name = "COLONIAL_MEXICO_Polish"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = turko_semitic
+				culture_group = maghrebi
+			}
+		}
+		name = "COLONIAL_MEXICO_Arabic"
 	}
 	# Generic
 	names = {
@@ -2266,24 +2463,6 @@ colonial_the_carribean = {
 	}
 	names = {
 		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_THE_CARRIBEAN_Jukuzhou"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_THE_CARRIBEAN_Xiyang_Shitang"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_THE_CARRIBEAN_Yveya_Changsha"
-	}
-	names = {
-		trigger = {
 			primary_culture = catalan
 		}
 		name = "COLONIAL_THE_CARRIBEAN_Nova_Mallorca"
@@ -2329,6 +2508,58 @@ colonial_the_carribean = {
 			primary_culture = highland_scottish
 		}
 		name = "COLONIAL_THE_CARRIBEAN_Gaelic"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = KOR
+				primary_culture = korean
+				primary_culture = korean_new
+			}
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Korean"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = vietnamese
+				primary_culture = vietnamese_new
+			}
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Vietnam"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Xiyang_Shitang"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Yveya_Changsha"
+	}
+	names = {
+		trigger = {
+			culture_group = east_slavic
+		}
+		name = "COLONIAL_THE_CARIBBEAN_Russian"
+	}
+	names = {
+		trigger = {
+			primary_culture = polish
+		}
+		name = "COLONIAL_THE_CARIBBEAN_Polish"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = turko_semitic
+				culture_group = maghrebi
+			}
+		}
+		name = "COLONIAL_THE_CARIBBEAN_Arabic"
 	}
 	# Generic
 	names = {
@@ -2503,24 +2734,6 @@ colonial_colombia = {
 	}
 	names = {
 		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_COLOMBIA_Yanzhou"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_COLOMBIA_Zhonglang"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_COLOMBIA_Manaodi"
-	}
-	names = {
-		trigger = {
 			primary_culture = scottish
 		}
 		name = "COLONIAL_COLOMBIA_Strathclyde"
@@ -2602,6 +2815,58 @@ colonial_colombia = {
 			primary_culture = highland_scottish
 		}
 		name = "COLONIAL_COLOMBIA_Gaelic"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = KOR
+				primary_culture = korean
+				primary_culture = korean_new
+			}
+		}
+		name = "COLONIAL_COLOMBIA_Korean"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = vietnamese
+				primary_culture = vietnamese_new
+			}
+		}
+		name = "COLONIAL_COLOMBIA_Vietnam"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_COLOMBIA_Zhonglang"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_COLOMBIA_Manaodi"
+	}
+	names = {
+		trigger = {
+			culture_group = east_slavic
+		}
+		name = "COLONIAL_COLOMBIA_Russian"
+	}
+	names = {
+		trigger = {
+			primary_culture = polish
+		}
+		name = "COLONIAL_COLOMBIA_Polish"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = turko_semitic
+				culture_group = maghrebi
+			}
+		}
+		name = "COLONIAL_COLOMBIA_Arabic"
 	}
 	# Generic
 	names = {
@@ -2744,24 +3009,6 @@ colonial_peru = {
 	}
 	names = {
 		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_PERU_Kunlun"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_PERU_Andi"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_PERU_Daoshan"
-	}
-	names = {
-		trigger = {
 			primary_culture = norwegian
 		}
 		name = "COLONIAL_PERU_Hoylandet"
@@ -2831,6 +3078,58 @@ colonial_peru = {
 			primary_culture = highland_scottish
 		}
 		name = "COLONIAL_PERU_Gaelic"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = KOR
+				primary_culture = korean
+				primary_culture = korean_new
+			}
+		}
+		name = "COLONIAL_PERU_Korean"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = vietnamese
+				primary_culture = vietnamese_new
+			}
+		}
+		name = "COLONIAL_PERU_Vietnam"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_PERU_Andi"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_PERU_Daoshan"
+	}
+	names = {
+		trigger = {
+			culture_group = east_slavic
+		}
+		name = "COLONIAL_PERU_Russian"
+	}
+	names = {
+		trigger = {
+			primary_culture = polish
+		}
+		name = "COLONIAL_PERU_Polish"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = turko_semitic
+				culture_group = maghrebi
+			}
+		}
+		name = "COLONIAL_PERU_Arabic"
 	}
 	# Generic
 	names = {
@@ -3045,24 +3344,6 @@ colonial_la_plata = {
 	}
 	names = {
 		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_LA_PLATA_Qingqiu"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_LA_PLATA_Tukou"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_LA_PLATA_Milin"
-	}
-	names = {
-		trigger = {
 			primary_culture = turkish
 		}
 		name = "COLONIAL_LA_PLATA_Gumus_Kiyilar"
@@ -3098,6 +3379,58 @@ colonial_la_plata = {
 		}
 		name = "COLONIAL_LA_PLATA_Gaelic"
 	}
+	names = {
+		trigger = {
+			OR = {
+				tag = KOR
+				primary_culture = korean
+				primary_culture = korean_new
+			}
+		}
+		name = "COLONIAL_LA_PLATA_Korean"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = vietnamese
+				primary_culture = vietnamese_new
+			}
+		}
+		name = "COLONIAL_LA_PLATA_Vietnam"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_LA_PLATA_Tukou"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_LA_PLATA_Milin"
+	}
+	names = {
+		trigger = {
+			culture_group = east_slavic
+		}
+		name = "COLONIAL_LA_PLATA_Russian"
+	}
+	names = {
+		trigger = {
+			primary_culture = polish
+		}
+		name = "COLONIAL_LA_PLATA_Polish"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = turko_semitic
+				culture_group = maghrebi
+			}
+		}
+		name = "COLONIAL_LA_PLATA_Arabic"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_LA_PLATA_Root_Culture_GetName_La_Plata"
@@ -3115,7 +3448,7 @@ colonial_la_plata = {
 	}
 	names = {
 		trigger = {
-			# Amélioration la Pléiade
+			# Amï¿½lioration la Plï¿½iade
 			any_owned_province = {
 				OR = {
 					area = southern_chile_area
@@ -3353,24 +3686,6 @@ colonial_brazil = {
 	}
 	names = {
 		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_BRAZIL_Liuzhou"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_BRAZIL_Nanjiao"
-	}
-	names = {
-		trigger = {
-			culture_group = east_asian
-		}
-		name = "COLONIAL_BRAZIL_Huangyuan"
-	}
-	names = {
-		trigger = {
 			primary_culture = welsh
 		}
 		name = "COLONIAL_BRAZIL_yr_Amason"
@@ -3409,6 +3724,58 @@ colonial_brazil = {
 			primary_culture = highland_scottish
 		}
 		name = "COLONIAL_BRAZIL_Gaelic"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = KOR
+				primary_culture = korean
+				primary_culture = korean_new
+			}
+		}
+		name = "COLONIAL_BRAZIL_Korean"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = vietnamese
+				primary_culture = vietnamese_new
+			}
+		}
+		name = "COLONIAL_BRAZIL_Vietnam"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_BRAZIL_Nanjiao"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_BRAZIL_Huangyuan"
+	}
+	names = {
+		trigger = {
+			culture_group = east_slavic
+		}
+		name = "COLONIAL_BRAZIL_Russian"
+	}
+	names = {
+		trigger = {
+			primary_culture = polish
+		}
+		name = "COLONIAL_BRAZIL_Polish"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = turko_semitic
+				culture_group = maghrebi
+			}
+		}
+		name = "COLONIAL_BRAZIL_Arabic"
 	}
 	# Generic
 	names = {
@@ -3547,9 +3914,61 @@ colonial_australia = {
 	}
 	names = {
 		trigger = {
+			OR = {
+				tag = KOR
+				primary_culture = korean
+				primary_culture = korean_new
+			}
+		}
+		name = "COLONIAL_AUSTRALIA_Korean"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = vietnamese
+				primary_culture = vietnamese_new
+			}
+		}
+		name = "COLONIAL_AUSTRALIA_Vietnam"
+	}
+	names = {
+		trigger = {
 			culture_group = latin
 		}
 		name = "COLONIAL_AUSTRALIA_Terre_Australi"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_AUSTRALIA_Xianshan"
+	}
+	names = {
+		trigger = {
+			culture_group = east_asian
+		}
+		name = "COLONIAL_AUSTRALIA_Zhourao"
+	}
+	names = {
+		trigger = {
+			culture_group = east_slavic
+		}
+		name = "COLONIAL_AUSTRALIA_Russian"
+	}
+	names = {
+		trigger = {
+			primary_culture = polish
+		}
+		name = "COLONIAL_AUSTRALIA_Polish"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = turko_semitic
+				culture_group = maghrebi
+			}
+		}
+		name = "COLONIAL_AUSTRALIA_Arabic"
 	}
 	# Generic
 	names = {

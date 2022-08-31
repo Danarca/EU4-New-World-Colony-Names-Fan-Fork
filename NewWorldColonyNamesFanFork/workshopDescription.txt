@@ -3,7 +3,7 @@ A Fan Fork of the New World Colony Names mod, originally made by Cwrwi, located 
 The original haven't been updated since 2019 however, cannot be run on the latest versions of the game, and can thus be considered abandoned.
 This project aims to restore the mod to its former glory.
 
-[b]Fully playable on 1.33.2, but does not contain province names in certain languages for the provinces added in Leviathan, for which I need help.[/b]
+[b]Fully playable on 1.33.3, but does not contain province names in certain languages for the provinces added in Leviathan, for which I need help.[/b]
 [hr][/hr]
 [b]Help so far:[/b]
 Friedemann: German Australia
@@ -11,9 +11,46 @@ Annozoker: Italian America & Oceania
 Darth Revan: Leviathan American provinces and a bunch of provinces here and there in Turkish
 BurndenAce: English and French Canada
 gorillaswithAKs: Scots Gaelic and Irish Gaelic New World
+𝕵𝖆𝖈𝖐𝕮𝖍𝖔𝖜: Chinese, Korean, Vietnamese and (Alaskan) Ainu provinces both in the old world and in the new
+Autokratoas: Helped with creating the bootleg Polish naming
+xarope-alugavel: Russian and Arabic New world & Oceania
+Buck Henderson: Scottish American Leviathan province names
+
 [hr][/hr]
 Want to help? Head over to https://github.com/Danarca/EU4-New-World-Colony-Names-Fan-Fork or start a thread below!
 
+[hr][/hr]
+[b]Content so far:[/b]
+Ainu Alaskan provinces
+British Culture Group new World (Except Leviathan provinces)
+Spanish new World (Except Leviathan provinces)
+Catalan new world (Except Leviathan provinces)
+Danish new world (Except Leviathan provinces)
+Dutch new world (Except Leviathan provinces)
+Chinese Culture Group, entire world
+Russian Culture Group new world and Australia
+English new world (Except Leviathan provinces (outside Canada))
+Flemish new world (Except Leviathan provinces)
+German new world (Except Leviathan provinces) and Australia
+Greek new world (Except Leviathan provinces)
+Highland Scottish (Scots Gaelic) new world
+Hungarian new world (Except Leviathan provinces)
+Irish (Gaelic) new world
+Japanese Culture Group new world (Except Leviathan provinces)
+Korean (And Sinicised variant) entire world
+Latin Culture Group (Italian) new world and Oceania
+Ming-specific entire world
+Norwegian new world (Except Leviathan provinces)
+Polish bootleg new world (Except Leviathan provinces)
+Portuguese new world (Except Leviathan provinces)
+Roman new world (Except Leviathan provinces)
+Scottish new world
+Swedish new world (Except Leviathan provinces)
+Turkish new world
+Vietnamese (And Sinicised variant) entire world
+Welsh new world (Except Leviathan provinces)
+Yuan-specific entire world
+Arabic new world and Oceania
 [hr][/hr]
 ORIGINAL WORKSHOP TEXT
 [hr][/hr]
@@ -35,5 +72,5 @@ Compatible with every language of vanilla eu4 and every language mod that uses t
 1 rate up = 1 smile
 1 favorite = 1 tell Paradox to stop dynamic province names changing the checksum
 
-Thanks to Comrade Dongo for doing most the German and for help with Swedish, Annozoker for the Italian, Emc18 for the Catalan names and editing the Castilian, MattBrant for editing the Portuguese, GULAG for helping with Norwegian, Krille for helping with the Swedish, pluvionix for the Japanese, Phantom Thief for the Turkish, Stimmung for the Latin, Voltaire, Imaginaryfriendo and Falang for Polish, Scratchmen for Hungarian, Soundwave339 for Greek and Van♂年夕阳红 for Chinese.
+Thanks to Comrade Dongo for doing most the German and for help with Swedish, Annozoker for the Italian, Emc18 for the Catalan names and editing the Castilian, MattBrant for editing the Portuguese, GULAG for helping with Norwegian, Krille for helping with the Swedish, pluvionix for the Japanese, Phantom Thief for the Turkish, Stimmung for the Latin, Voltaire, Imaginaryfriendo and Falang for Polish, Scratchmen for Hungarian, Soundwave339 for Greek and [strike]Van♂年夕阳红[/strike] 𝕵𝖆𝖈𝖐𝕮𝖍𝖔𝖜 for Chinese.
 [hr][/hr]

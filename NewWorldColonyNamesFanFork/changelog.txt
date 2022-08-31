@@ -14,3 +14,32 @@
 7. May 2022
 -Update to English and French Canadian provinces by BurndenAce
 -Irish Gaelic and Scots Gaelic New World (Provinces and Colonial Nations) by gorillaswithAKs
+
+18. May 2022
+-Update to Chinese province names and colonial nation names by 𝕵𝖆𝖈𝖐𝕮𝖍𝖔𝖜
+-Vietnamese province names and colonial nation names by 𝕵𝖆𝖈𝖐𝕮𝖍𝖔𝖜
+-Korean province names and colonial nation names by 𝕵𝖆𝖈𝖐𝕮𝖍𝖔𝖜
+-Alaskan Ainu province names by 𝕵𝖆𝖈𝖐𝕮𝖍𝖔𝖜
+
+10. June 2022
+-Merged vanilla Japanese namelist into the mod
+
+14. July 2022
+-Partially introduced a bootleg Polish translation with Autokratoas help
+
+16. July 2022
+-Added Russian New World, courtesy of xarope-alugavel
+-Russian and backup Polish Colonial Nation names by Danarca
+
+17. July 2022
+-Reintegrated vanilla Irish namelist (Great Britain and Ireland)
+
+17. July 2022 Hotfix #1
+-Fixed Irish encoding
+
+18. August 2022
+-Added Scottish Leviathan American provinces by Buck Henderson
+
+31. August 2022
+-Added Arabic New World & Oceanic province names and colonial nations names by xarope-alugavel!
+-Fixed a possible bug with Polish new world nation names not showing up
