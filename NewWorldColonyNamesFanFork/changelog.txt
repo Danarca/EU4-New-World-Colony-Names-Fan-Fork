@@ -43,3 +43,21 @@
 31. August 2022
 -Added Arabic New World & Oceanic province names and colonial nations names by xarope-alugavel!
 -Fixed a possible bug with Polish new world nation names not showing up
+
+20. September 2022
+-Fixed a few characters in the Russian list
+-Added 1.34 compatibility flag
+
+28. September 2022
+-Added American name list (actually English)
+-Added Brazilian name list (actually Portuguese)
+-Added Mexican name list (actually Castilian)
+-Added Platinean name list (actually Castilian)
+-Added Quebecois name list (actually French; added in 1.34 I believe)
+-Added Louisianian name list (see above)
+-Fixed the Portuguese name list (lots of corruption)
+-Probably fixed some Spanish names, 11 entries had characters I had to guess
+
+21. January 2023
+-Changed parts of the Arabic and Maghrebi name lists to the Arabic list provided by Oceanic
+-Added Andalusian from the above
