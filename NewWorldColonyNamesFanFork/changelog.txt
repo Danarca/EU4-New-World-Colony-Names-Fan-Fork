@@ -61,3 +61,23 @@
 21. January 2023
 -Changed parts of the Arabic and Maghrebi name lists to the Arabic list provided by Oceanic
 -Added Andalusian from the above
+
+5. June 2024
+-Added compatibility flag for 1.37
+-The following by News_12
+--English/British Leviathan and New Zealand provinces
+--Castilian/Mexican/Platinean Leviathan, Australian, and New Zealand provinces
+--Greek Leviathan, Australia, New Zealand, Misc. Oceania, and Hawaii provinces
+--Catalan Leviathan provinces
+--Polish Leviathan provinces
+--French/Quebecois/Louisianans Leviathan and Oceania provinces
+--Roman Leviathan and Oceania provinces
+--Welsh Leviathan provinces
+--Japanese Leviathan and Oceania provinces
+--Hungarian Leviathan provinces
+--Norwegian Leviathan and Oceania provinces
+--Dutch Leviathan and Misc. Oceania provinces
+--Flemish Leviathan provinces
+--German Leviathan and Oceania Provinces
+--Swedish Leviathan, Australia, and New Zealand provinces
+--Danish Leviathan, Australia, and New Zealand provinces

@@ -3,7 +3,7 @@ A Fan Fork of the New World Colony Names mod, originally made by Cwrwi, located 
 The original haven't been updated since 2019 however, cannot be run on the latest versions of the game, and can thus be considered abandoned.
 This project aims to restore the mod to its former glory.
 
-[b]Fully playable on 1.34, but does not contain province names in certain languages for the provinces added in Leviathan, for which I need help.[/b]
+[b]Fully playable on 1.37, but does not contain province names in certain languages for the provinces added in Leviathan, for which I need help.[/b]
 [hr][/hr]
 [b]Help so far:[/b]
 Friedemann: German Australia
@@ -16,6 +16,7 @@ Autokratoas: Helped with creating the bootleg Polish naming
 xarope-alugavel: Russian and Arabic New world & Oceania
 Buck Henderson: Scottish American Leviathan province names
 Oceanic: Arabic New World
+News_12: Massive update for 1.37 (!!)
 
 [hr][/hr]
 Want to help? Head over to https://github.com/Danarca/EU4-New-World-Colony-Names-Fan-Fork or start a thread below!
