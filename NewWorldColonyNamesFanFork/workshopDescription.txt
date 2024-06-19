@@ -24,41 +24,41 @@ Want to help? Head over to https://github.com/Danarca/EU4-New-World-Colony-Names
 [hr][/hr]
 [b]Content so far:[/b]
 Ainu Alaskan provinces
-British Culture Group new World (Except Leviathan provinces)
-Spanish new World (Except Leviathan provinces)
+British Culture Group new world and some of Oceania
+English new world and some of Oceania
+American (based on above)
+Spanish new World and some of Oceania
 Mexican and Platinean (based on above)
-Catalan new world (Except Leviathan provinces)
-Danish new world (Except Leviathan provinces)
-Dutch new world (Except Leviathan provinces)
+Catalan new world
+Danish new world and some of Oceania
+Dutch new world and some of Oceania
 Chinese Culture Group, entire world
 Russian Culture Group new world and Australia
-English new world (Except Leviathan provinces (outside Canada))
-American (based on above)
-French new world (Except Leviathan provinces (outside Canada))
+French new world and some of Oceania
 Quebecois and Louisianian (based on above)
-Flemish new world (Except Leviathan provinces)
-German new world (Except Leviathan provinces) and Australia
-Greek new world (Except Leviathan provinces)
+Flemish new world
+German new world and Oceania
+Greek new world and Oceania
 Highland Scottish (Scots Gaelic) new world
-Hungarian new world (Except Leviathan provinces)
+Hungarian new world
 Irish (Gaelic) new world
-Japanese Culture Group new world (Except Leviathan provinces)
+Japanese Culture Group new world and Oceania
 Korean (And Sinicised variant) entire world
 Latin Culture Group (Italian) new world and Oceania
 Ming-specific entire world
-Norwegian new world (Except Leviathan provinces)
-Polish bootleg new world (Except Leviathan provinces)
-Portuguese new world (Except Leviathan provinces)
+Norwegian new world and some of Oceania
+Polish new world
+Portuguese new world and some of Oceania
 Brazilian (based on above)
-Roman new world (Except Leviathan provinces)
+Roman new world and Oceania
 Scottish new world
-Swedish new world (Except Leviathan provinces)
+Swedish new world and some of Oceania
 Turkish new world
 Vietnamese (And Sinicised variant) entire world
-Welsh new world (Except Leviathan provinces)
+Welsh new world
 Yuan-specific entire world
-Arabic new world and Oceania
-Andalusian new world and Oceania
+Arabic new world and some of Oceania
+Andalusian new world and some of Oceania
 [hr][/hr]
 ORIGINAL WORKSHOP TEXT
 [hr][/hr]
