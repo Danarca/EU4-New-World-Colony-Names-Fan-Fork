@@ -5,5 +5,5 @@ tags={
 }
 name="New World Colony Names Fan Fork"
 supported_version="v1.37.*.*"
-path="C:/Users/DDegn/Documents/Paradox Interactive/Europa Universalis IV/mod/NewWorldColonyNamesFanFork"
+path="C:/Users/DDegn/OneDrive/Documents/Paradox Interactive/Europa Universalis IV/mod/NewWorldColonyNamesFanFork"
 remote_file_id="2776989437"
